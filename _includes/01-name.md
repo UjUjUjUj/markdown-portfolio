@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Hello World, this is Uj
+## I am eager to learn from the best
+### Keep up with it! Uj
